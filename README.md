@@ -1,20 +1,6 @@
 # Java_Programming
 Java programming journey — focused on OOP, logic building, and practice 🚀
 
-
-Java_Programming
-│
-├── README.md              ← Main Java overview
-│
-├── Competitive
-│   ├── README.md          ← Competitive programming
-│   └── Project
-│       └── README.md      ← Project 
-│
-└── Practice
-    └── README.md          ← Practice programs
-
-
     # ☕ Java Programming
 
 <p align="center">
