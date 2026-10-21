@@ -7,7 +7,7 @@ Java_Programming
 ├── README.md              ← Main Java overview
 │
 ├── Competitive
-│   ├── README.md          ← Competitive programming बद्दल
+│   ├── README.md          ← Competitive programming
 │   └── Project
 │       └── README.md      ← Project 
 │
